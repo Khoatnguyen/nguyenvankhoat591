@@ -99,6 +99,7 @@ namespace nguyenvankhoat591.Controllers
             {
                 try
                 {
+                     nVK0591.NVKName = str.LowerToUpper(nVK0591.NVKName);
                     _context.Update(nVK0591);
                     await _context.SaveChangesAsync();
                 }

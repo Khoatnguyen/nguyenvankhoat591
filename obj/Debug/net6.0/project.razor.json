@@ -16318,6 +16318,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\ADMIN\\Desktop\\nguyenvankhoat591\\Views\\NVK0591\\Details.cshtml",
+      "TargetPath": "Views\\NVK0591\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ADMIN\\Desktop\\nguyenvankhoat591\\Views\\NVK0591\\Index.cshtml",
+      "TargetPath": "Views\\NVK0591\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\ADMIN\\Desktop\\nguyenvankhoat591\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
@@ -16328,8 +16338,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\ADMIN\\Desktop\\nguyenvankhoat591\\Views\\NVK0591\\Delete.cshtml",
+      "TargetPath": "Views\\NVK0591\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ADMIN\\Desktop\\nguyenvankhoat591\\Views\\NVK0591\\Edit.cshtml",
+      "TargetPath": "Views\\NVK0591\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\ADMIN\\Desktop\\nguyenvankhoat591\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ADMIN\\Desktop\\nguyenvankhoat591\\Views\\NVK0591\\Create.cshtml",
+      "TargetPath": "Views\\NVK0591\\Create.cshtml",
       "FileKind": "mvc"
     },
     {

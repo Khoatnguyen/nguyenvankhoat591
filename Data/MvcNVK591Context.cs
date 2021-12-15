@@ -13,4 +13,6 @@ using nguyenvankhoat591.Models;
         }
 
         public DbSet<nguyenvankhoat591.Models.CompanyNVK591> CompanyNVK591 { get; set; }
+
+        public DbSet<nguyenvankhoat591.Models.NVK0591> NVK0591 { get; set; }
     }

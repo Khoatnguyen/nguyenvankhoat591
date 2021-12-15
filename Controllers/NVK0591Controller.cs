@@ -11,6 +11,7 @@ namespace nguyenvankhoat591.Controllers
 {
     public class NVK0591Controller : Controller
     {
+        StringProcessNVK591 str = new StringProcessNVK591();
         private readonly MvcNVK591Context _context;
 
         public NVK0591Controller(MvcNVK591Context context)
@@ -57,6 +58,8 @@ namespace nguyenvankhoat591.Controllers
         {
             if (ModelState.IsValid)
             {
+                
+                nVK0591.NVKName = str.LowerToUpper(nVK0591.NVKName);
                 _context.Add(nVK0591);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
